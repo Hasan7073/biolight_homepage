@@ -389,9 +389,13 @@ color: var(--black-color, #1D201C);
 .advantage_contant_right_note{
 float: right;
     display: inline-grid;
-    gap: 20px;
-}
+    gap: 18px;
 }
 .advantage_contant_right_note p{
-
+color: var(--body-text-color, #595959);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
