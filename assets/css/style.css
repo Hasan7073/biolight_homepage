@@ -365,16 +365,32 @@ padding: 100px 0px;
 
 }
 .advantage_contant_right h1{
-
+color: var(--black-color, #1D201C);
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 24px;
 }
 .advantage_contant_right_full{
 
 }
-.advantage_contant_right_full img{
+.advantage_contant_right_check{
+      float: left;
+    display: inline-grid;
+    gap: 15px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.advantage_contant_right_check img{
 
 }
 .advantage_contant_right_note{
-
+float: right;
+    display: inline-grid;
+    gap: 20px;
+}
 }
 .advantage_contant_right_note p{
 
