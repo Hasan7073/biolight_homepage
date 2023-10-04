@@ -341,3 +341,41 @@ color: var(--black-color, #1D201C);
     width: 100%;
     margin: auto;
 }
+/*======Start_advantage_section======*/
+
+.advantage_section{
+padding: 100px 0px;
+    display: block;
+}
+.custom_container{
+
+}
+.advantage_contant{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.advantage_contant_left{
+
+}
+.advantage_contant_left img{
+
+}
+.advantage_contant_right{
+
+}
+.advantage_contant_right h1{
+
+}
+.advantage_contant_right_full{
+
+}
+.advantage_contant_right_full img{
+
+}
+.advantage_contant_right_note{
+
+}
+.advantage_contant_right_note p{
+
+}
